@@ -225,7 +225,7 @@ The dashboard allows users to explore:
 
 # 📷 Dashboard Preview
 
-![Banking Customer Satisfaction Dashboard](Banking_Dashboard.png)
+![Banking Customer Satisfaction Dashboard](Banking_Customer_Dashboard.png)
 
 ---
 
